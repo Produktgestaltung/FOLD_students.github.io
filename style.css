@@ -7,8 +7,9 @@ body {
 }
 
 h1 {
-  font-family: Georgia, serif;
-  font-weight: 600;
+  font-family: futura-pt-bold, sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 10vh;
   margin-top: 2vh;
   margin-bottom: 1vh;
@@ -16,8 +17,9 @@ h1 {
 }
 
 p {
-  font-family: Georgia, serif;
-  font-weight: 600;
+  font-family: futura-pt-bold, sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 3vh;
   padding: 5px 0;
   background-color: rgb(255, 255, 255);
